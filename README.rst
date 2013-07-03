@@ -121,6 +121,12 @@ For starting the worker, you can use the ``job_runner_worker`` command::
 Changes
 -------
 
+v2.1.1debug
+~~~~~~~~~~~
+
+* Debug release, should not be deployed or merged!
+
+
 v2.1.1
 ~~~~~~
 
